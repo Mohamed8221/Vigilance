@@ -1,0 +1,11 @@
+# Core Machine Learning & Data Processing
+tensorflow==2.16.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+
+# Real-time Communication
+paho-mqtt==2.1.0
+
+# Dashboard & Visualization
+streamlit==1.35.0
