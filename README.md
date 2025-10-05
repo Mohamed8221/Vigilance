@@ -99,7 +99,8 @@ The Vigilance framework is built on a robust, decoupled architecture where compo
 3.  [cite\_start]**Aggregation Server**: The central headquarters that collects weights, runs the advanced defense algorithms to filter out threats, aggregates the trusted updates, and distributes the improved global model. [cite: 910, 911]
 4.  [cite\_start]**Vulnerability Dashboard**: The command center for human operators, providing real-time visibility into the system's health and security status. [cite: 913]
 
-*(You can insert your `architecture.png` diagram here)*
+<img width="2272" height="1831" alt="architecture" src="https://github.com/user-attachments/assets/e4928670-caeb-4b7f-92f3-083bc0ab2fd2" />
+
 
 ## 📈 Competition Alignment & Impact
 
