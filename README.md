@@ -27,7 +27,7 @@ Follow these steps to set up and run the Vigilance simulation environment on you
 ### 1\. Clone the Repository
 
 ```bash
-git clone [<your-repository-url>](https://github.com/Mohamed8221/Vigilance.git)
+git clone https://github.com/Mohamed8221/Vigilance.git
 cd vigilance-project
 ```
 
