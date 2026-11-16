@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+
+# Dataset and generated state
+data/
+model_state/
+mosquitto_data/
+feature_list.json
+global_test_X.npy
+global_test_y.npy
+vulnerability_report.json
+
+# Certificates
+certs/
